@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Des.ParcialII</string>
+    <string name="accion_listar">Listar</string>
+    <string name="accion_actualizar">Actualizar</string>
+    <string name="accion_eliminar">Eliminar</string>
+
+    <string name="next">Siguiente</string>
+    <string name="previous">Anterior</string>
+
+    <string name="texto_encuesta_nueva">Formulario Nuevo</string>
+    <string name="texto_encuesta_actualizar">Actualizar Formulario</string>
+
+    <string name="texto_cedula">Cedula:</string>
+    <string name="texto_nombre">Nombre:</string>
+    <string name="texto_estrato">Estrato:</string>
+    <string name="texto_salario">Salario:</string>
+    <string name="texto_nivel_educativo">Nivel Educativo:</string>
+
+    <string name="boton_guardar">GUARDAR</string>
+    <string name="boton_listado">LISTADO</string>
+    <string name="boton_actualizar">ACTUALIZAR</string>
+</resources>
